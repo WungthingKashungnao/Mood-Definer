@@ -9,11 +9,11 @@ function App() {
 
   useEffect(() => {
     playSound();
-    console.log(sounds.length);
   }, [randomSound]);
 
   const hanldePlay = () => {
-    let anySound = Math.floor(Math.random() * 19);
+    console.log(sounds.length);
+    let anySound = Math.floor(Math.random() * 23);
     setRandomSound(anySound);
   };
   return (

@@ -17,6 +17,10 @@ import scream from "./scream-121575.mp3";
 import uwu from "./uwu-sound-119010.mp3";
 import veryInfectiousLaughter from "./very-infectious-laughter-117727.mp3";
 import wow from "./wow-121578.mp3";
+import oldLady from "./AMBU48C-cartoon-old-lady-oh-no.mp3";
+import machinegunloopwav from "./machinegunloopwav-14862.mp3";
+import yada from "./yada-yada-95178.mp3";
+import undead from "./ZTUZ6EC-undead-battle-vocal-for-the-dark-lady.mp3";
 
 const sounds = [
   confirmation,
@@ -38,5 +42,9 @@ const sounds = [
   veryInfectiousLaughter,
   wow,
   meow,
+  oldLady,
+  machinegunloopwav,
+  yada,
+  undead,
 ];
 export default sounds;
